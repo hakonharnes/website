@@ -8,7 +8,7 @@ export default function HeroSection() {
 			<Terminal
 				commands={[
 					{ variable: "$name", value: "Håkon Harnes" },
-					{ variable: "$age", value: "26" },
+					{ variable: "$age", value: "27" },
 					{ variable: "$location", value: "Norway" },
 					{ variable: "$education", value: "MSc. in Computer Science" },
 				]}
