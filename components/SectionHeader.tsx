@@ -12,7 +12,7 @@ export const SectionHeader = ({ title, dir = "l" }: Props) => {
 			id={title.toLowerCase()}
 		>
 			<div className="w-full h-[3px] bg-slate-600 opacity-30" />
-			<h2 className="text-right text-3xl font-bold">
+			<h2 className="text-right text-3xl font-semibold">
 				<span>{title}</span>
 			</h2>
 		</div>
